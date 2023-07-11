@@ -1,0 +1,6 @@
+num_1 = int(input("Frist Number :"))
+num_2 = int(input("second Number :"))
+print(num_1,"+",num_2,"=",num_1+num_2)
+print(num_1,"-",num_2,"=",num_1-num_2)
+print(num_1,"*",num_2,"=",num_1*num_2)
+print(num_1,"/",num_2,"=",int(num_1/num_2))
