@@ -1,0 +1,5 @@
+print("Your distance more than 1")
+Distance = int(input("distance (Km):"))
+Time = int(input("Time (Hour) :"))
+Speed = int(Distance/Time)
+print(Speed,"Km/h")
